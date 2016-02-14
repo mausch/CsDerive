@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0-*",
+  "description": "Tests Console Application",
+  "authors": [ "mausch" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "CsDerive": "1.0.0-*"
+  },
+
+  "commands": {
+    "Tests": "Tests"
+  },
+
+  "frameworks": {
+    "dnx451": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23516",
+        "System.Collections": "4.0.11-beta-23516",
+        "System.Linq": "4.0.1-beta-23516",
+        "System.Threading": "4.0.11-beta-23516",
+        "Microsoft.Dnx.Compilation.CSharp.Abstractions": "1.0.0-rc1-final",
+        "Microsoft.Dnx.Compilation": "1.0.0-rc1-final"
+      }
+    }
+  }
+}
