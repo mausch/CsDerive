@@ -1,7 +1,7 @@
 ﻿using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
-using Microsoft.Dnx.Compilation.CSharp;
+using StackExchange.Precompilation;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

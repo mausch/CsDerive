@@ -1,4 +1,4 @@
-﻿using Microsoft.Dnx.Compilation.CSharp;
+﻿using StackExchange.Precompilation;
 using System;
 using System.Collections.Generic;
 

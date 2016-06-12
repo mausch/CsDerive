@@ -1,10 +1,10 @@
-﻿using Microsoft.Dnx.Compilation.CSharp;
-using System;
+﻿using System;
 using System.Linq;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using System.Diagnostics;
+using StackExchange.Precompilation;
 
 namespace CsDerive
 {
